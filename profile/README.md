@@ -24,6 +24,7 @@ Welcome to our GitHub organization hosting the Intelligent Backup System, a robu
 - **PII Data Detector**: Employs MiniLM-L6-v2 and KeyBERT for PII detection, categorizing risk levels and securing high-risk files with password protection.
 - **Abstractive Summarizer**: Uses PEGASUS for generating concise summaries, ensuring context relevance and key information extraction.
 - **Keyword Extractor**: Implements KeyBERT for generating simple tags from top-n keywords.
+- **Image Classification**: Utilizes MobileNet for descriptive tag generation on images, enhancing the system's capability to categorize and retrieve image files effectively.
 
 ## Repository Structure
 - `Client`: Contains all client-side scripts, ML models, and utilities for file processing and backup.
@@ -31,4 +32,4 @@ Welcome to our GitHub organization hosting the Intelligent Backup System, a robu
 - `Backend`:  Hosts the server-side components, responsible for managing incoming data, storage, and overall system functionality.
 
 ## Contributing
-We encourage contributions! Please read our contributing guidelines for more information on how you can participate in improving this innovative backup system.
+We greatly appreciate and encourage contributions! Your insights and improvements can play a vital role in enhancing this innovative backup system.
