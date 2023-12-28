@@ -27,12 +27,8 @@ Welcome to our GitHub organization hosting the Intelligent Backup System, a robu
 
 ## Repository Structure
 - `Client`: Contains all client-side scripts, ML models, and utilities for file processing and backup.
-- `BackupServer`: Hosts server-side scripts and tools for managing incoming data and storage.
-- `Documentation`: Detailed documentation on system setup, operation, and ML model descriptions.
-- `Examples`: Sample code and test cases demonstrating the system's capabilities.
+- `Machine Learning`: Contains specialized ML scripts and models used in the system, including PII detection, topic modeling, abstractive summarization, image classification, and object detection algorithms.
+- `Backend`:  Hosts the server-side components, responsible for managing incoming data, storage, and overall system functionality.
 
 ## Contributing
 We encourage contributions! Please read our contributing guidelines for more information on how you can participate in improving this innovative backup system.
-
-## License
-This project is licensed under [LICENSE-NAME]. Please see the LICENSE file for more details.
